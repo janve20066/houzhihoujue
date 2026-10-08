@@ -1,0 +1,16 @@
+你可以直接在 GitHub 网页上新建或上传代码，无需安装复杂的命令行工具：
+
+在刚刚创建的仓库页面中，点击 Add file -> Create new file（或 Upload files）。
+
+文件名必须命名为 index.html（作为网站的默认首页入口）。
+
+将你的 HTML/CSS/JS 代码贴入该文件，滚动到最下方点击 Commit changes 保存。
+
+3. 开启 GitHub Pages（发布网站）
+在你的仓库页面上方，点击 Settings（设置）。
+
+在左侧菜单栏找到并点击 Pages。
+
+在 Build and deployment 下的 Source 项，选择 Deploy from a branch。
+
+在 Branch 处将分支设置为 main（或 master），目录保持 / (root)，点击 Save。
